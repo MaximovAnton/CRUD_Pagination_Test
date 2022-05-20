@@ -1,0 +1,16 @@
+.photo{
+    width: 50px;
+}
+
+.preloader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.userCard{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 0 10px 10px;
+    min-height: 80px;
+}
